@@ -59,7 +59,7 @@ main{
 
 }
 
-@media(min-width:700px){
+@media(min-width:700px){ /*@media change resolution of the screen according to the device*/
     header{
         min-height: 72rem;
     }
